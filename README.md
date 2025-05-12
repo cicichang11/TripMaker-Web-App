@@ -43,7 +43,7 @@ TripMaker is a collaborative group travel planning platform that helps friends a
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/cicichang11/TripMaker-Web-App.git
 ```
 
 2. Install dependencies
