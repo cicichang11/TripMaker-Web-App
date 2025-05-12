@@ -66,8 +66,8 @@ yarn dev
 
 - Frontend: Next.js
 - Styling: Tailwind CSS
-- Authentication: [Authentication provider]
-- Database: [Database provider]
+- Authentication: OAuth
+- Database: Neon
 - Deployment: Vercel
 
 ## 📝 License
